@@ -1,0 +1,33 @@
+
+.a1{
+    text-align: center;
+    background-color: black;
+}
+
+.aa1{
+    height: 92px;
+}
+#jh{
+    height: 620px;
+    width: 100%;
+}
+#z4{
+    height: 710px;
+}
+#oa{height: 614px;
+width: 100%;
+position: relative;}
+#xz{
+    position: absolute;
+    color: white;
+   font-size: 86px;
+}
+.ocv{justify-content: space-evenly;
+    display: flex;
+    padding: 3px;
+   
+}
+.card-img-top
+{
+    height: 200px;
+}
