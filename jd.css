@@ -8,26 +8,27 @@
     height: 92px;
 }
 
-.row1{
+#jh{
    
 position: relative;
 
 
 }
 
-.col1{
-
+#cvb{
+margin-left: -1345px;
+    margin-top: 91px;
     position: absolute;
     
     
 }
 #jh{
-    height: 620px;
+    height:auto;
     width: 100%;
     }
    
 #z4{
-    height: 710px;
+    height: auto;
 }
 #oa{height: 614px;
 width: 100%;
@@ -49,3 +50,22 @@ position: relative;}
 .iop:hover{
     text-shadow: 0 1px 2px rgba(0,0,0,.6);
 }
+#c11{
+    border:none
+}
+
+
+
+
+
+
+.card {
+    transition: 1s ease;
+    }
+    
+    .card:hover{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: 1s ease;
+    }
